@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "a simple repo of learning concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V-1994/nodejs-express.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "v-1994",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V-1994/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/V-1994/nodejs-express#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9"
+  }
+}
